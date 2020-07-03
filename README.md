@@ -4,7 +4,7 @@ I really enjoyed working with PIXI.js and I would like to master this area bette
 
 
 To accomplish the task, I used many resources, such as pixi api docs and many tutorials from YouTube.
-Maybe I used old docs or utorials, so I'm not sure about the relevance of the code.
+Maybe I used old docs or tutorials, so I'm not sure about the relevance of the code.
 I wrote several functions for random generation of shapes and colors.
 I tried to do gravity in several ways:
 1) Through pixi particles
