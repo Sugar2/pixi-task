@@ -10,3 +10,7 @@ I tried to do gravity in several ways:
 1) Through pixi particles
 2) Through position.x + = 1, position.y + = 1
 
+![pixi](https://user-images.githubusercontent.com/24529325/86418495-fa81f480-bcd8-11ea-8466-6c410b7d6e05.png)
+
+
+I used "Live Server" extension for Visual Studio Code
